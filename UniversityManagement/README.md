@@ -24,7 +24,8 @@ This project is a **University Management System** designed to manage student, f
 <img width="1913" height="907" alt="Screenshot 2025-09-14 235120" src="https://github.com/user-attachments/assets/312396d8-cd9b-4310-aa15-c719d8df5d9d" /><img width="1917" height="906" alt="Screenshot 2025-09-14 235445" src="https://github.com/user-attachments/assets/204e6852-3d7e-4bb1-a5b7-91387b3923bf" />
 
  
-![Faculty Dashboard](images/faculty-dashboard.png)  
+![Faculty Dashboard](<img width="1916" height="906" alt="Screenshot 2025-09-14 235519" src="https://github.com/user-attachments/assets/0a3f79df-5a24-4ae2-bbcc-60accdc6ecd8" /><img width="1905" height="910" alt="Screenshot 2025-09-15 113216" src="https://github.com/user-attachments/assets/760aa904-4b8a-4e69-9ae8-c70c2ba26596" /><img width="1917" height="911" alt="Screenshot 2025-09-15 113344" src="https://github.com/user-attachments/assets/daf55792-8535-4d0e-a23c-02ca35935dba" /><img width="1916" height="906" alt="Screenshot 2025-09-14 235519" src="https://github.com/user-attachments/assets/39c46048-1da1-4115-9e24-9dc4e0b18fee" />
+)  
 ![Admin Dashboard](images/admin-dashboard.png)  
 
 ---
